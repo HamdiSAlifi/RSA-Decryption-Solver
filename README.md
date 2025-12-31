@@ -10,12 +10,12 @@ I created this project to revisit that moment, break down the math step-by-step,
 
 ## The Problem
 **Given:**
-* Public Key: $(n=26, e=7)$
+* Public Key: (n=26, e=7)
 * Ciphertext: "HBVO"
-* Mapping: $A=0, B=1, \dots$
+* Mapping: $A=0, B=1, and so on...
 
 **Objective:**
-Decrypt the message using the private key derived from the modulus $n=26$.
+Decrypt the message using the private key derived from the modulus n=26.
 
 ## How to Run
 1. Clone this repository.
